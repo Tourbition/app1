@@ -6,7 +6,17 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
-
+    <string name="name1">Hello</string>
+    <string name="button_name">show</string>
+    <string name="input">input RMB</string>
+    <string name="start">Hello</string>
+    <string name="btn1">DOLLAR</string>
+    <string name="btn2">ENRO</string>
+    <string name="btn3">WON</string>
+    <string name="btn4">CONFIG</string>
+    <string name="btn5">SAVE</string>
+    <string name="btn6">ShowRate</string>
+    <string name="nodata">No Data</string>
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 </resources>
