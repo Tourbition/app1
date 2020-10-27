@@ -1,4 +1,3 @@
-# app1
-《RateMaster》
-李权
-41710062
+# RateMaster
+姓名:李权  
+学号:41710062
